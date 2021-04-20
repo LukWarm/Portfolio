@@ -115,12 +115,12 @@ const StyledTags = styled.ul`
   }
 `;
 
-const blogPage = ({ location, data }) => {
+const BlogPage = ({ location, data }) => {
   const posts = data.allMarkdownRemark.edges;
 
   return (
     <Layout location={location}>
-      <Helmet title="blog" />
+      <Helmet title="Blog" />
 
       <StyledMainContainer>
         <header>
@@ -173,12 +173,12 @@ const blogPage = ({ location, data }) => {
   );
 };
 
-blogPage.propTypes = {
+BlogPage.propTypes = {
   location: PropTypes.object.isRequired,
   data: PropTypes.object.isRequired,
 };
 
-export default blogPage;
+export default BlogPage;
 
 export const pageQuery = graphql`
   {
