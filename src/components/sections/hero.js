@@ -17,7 +17,7 @@ const StyledHeroSection = styled.section`
 
   h1 {
     margin: 0 0 30px 4px;
-    color: var(--green);
+    color: var(--orange);
     font-family: var(--font-mono);
     font-size: clamp(var(--fz-sm), 5vw, var(--fz-md));
     font-weight: 400;
@@ -53,14 +53,15 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Egan Donley.</h2>;
+  const three = <h3 className="big-heading">I build things for the real world.</h3>;
   const four = (
     <p>
-      I'm a Boston-based software engineer who specializes in building (and occasionally designing)
-      exceptional digital experiences. Currently, I'm an engineer at{' '}
-      <a href="https://upstatement.com/">Upstatement</a> focused on building accessible,
-      human-centered products.
+      I'm an Atlanta-based mechanical engineer and student who specializes in designing and building
+      versatile competitive robots. I'm currently attending school at{' '}
+      <a href="https://www.cobbk12.org/Wheeler">Wheeler High School</a> in the{' '}
+      <a href="https://www.wheelermagnet.com/index.html">Magnet Program</a> offering students a
+      unique and advanced curriculum in science, math, and technology.
     </p>
   );
   const five = (
