@@ -3,7 +3,7 @@ date: '3'
 title: 'Differential Swerve Drive'
 cover: './octoprofile.png'
 github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+external: 'blog/differential-swerve'
 tech:
   - Autodesk Inventor
   - 3D Printing
