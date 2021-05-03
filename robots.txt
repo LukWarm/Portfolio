@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://egandonley.com/sitemap.xml
+Host: https://egandonley.com

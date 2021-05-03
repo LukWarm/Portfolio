@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-tag-js","path":"/blog/tags/ftc/","result":{"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"frontmatter":{"title":"Differential Swerve Drive","description":"Developing a holonomic robot from scratch","date":"2021-4-21","slug":"/blog/differential-swerve","tags":["FTC"]}}}]}},"pageContext":{"tag":"FTC"}}}
