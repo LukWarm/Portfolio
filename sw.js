@@ -27,17 +27,17 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-9c308f3f71492e7f7dfb.js"
+    "url": "webpack-runtime-1394f2bab2b5161eac52.js"
   },
   {
     "url": "framework-3321703c33570853116c.js"
   },
   {
-    "url": "app-53ae2fd98b793ce98425.js"
+    "url": "app-41839e0bf037ee844098.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "cf83650c8310d5c5254e63939529ea4b"
+    "revision": "84baf7311a967b04c30840536c646941"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-b1462017a2c34a95e2b4.js"
@@ -48,11 +48,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "ba0155f5fa88848ee023189ef116275b"
+    "revision": "7e8511b1901c9281d026d74a4ba325ab"
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "b0e90ee107c1bbf6fc2e0a52e714c9de"
+    "revision": "4765a324fd04a17d65658f47c4ac3200"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -140,12 +140,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^/portfolio`), ``)
+  pathname = pathname.replace(new RegExp(`^/Portfolio`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/portfolio/app-53ae2fd98b793ce98425.js`))) {
+  if (!resources || !(await caches.match(`/Portfolio/app-41839e0bf037ee844098.js`))) {
     return await fetch(event.request)
   }
 
@@ -158,7 +158,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/portfolio/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/Portfolio/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
