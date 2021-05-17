@@ -8,7 +8,7 @@ tags:
   - FTC
 ---
 
-## What is Ultraviolet
+## The Beginning
 
 Talk about who we are, members and stuff
 
@@ -19,3 +19,33 @@ talk about why we wanted a new team and the grand plans
 ## Kickoff
 
 planning and stuff in mid september, designs for drivetrains and shit
+
+## Grand Plans
+
+8wd, single belt, ultra thin, odometry, turret, flip out intake
+
+## Robot in 24 Hours
+
+Robot did decent, restricted ourselves to only KOP, many viewers
+
+## Into the Season
+
+### Drivetrain Troubles
+
+too much friction, pulleys too thin, hard to access screws, takes time to make plates
+
+### Not a lot of time
+
+Working to the last minute, timeline of when dt was moving vs when comps were
+
+### Portfolio too good too late
+
+manage to make a good portfolio over the course of like 3 days. Wanted to have more drawings
+
+## "What went wrong?"
+
+build space, funding, time constraints, downsides of having a small team
+
+## Coming back better next year
+
+plans to incorporate, senior year troubles will be in full swing (hoping to be managed), final season for UV?
