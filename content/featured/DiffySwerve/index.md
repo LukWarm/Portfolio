@@ -8,7 +8,7 @@ tech:
   - Autodesk Inventor
   - 3D Printing
   - CNC Machining
-showInProjects: true
+showInProjects: false
 ---
 
 A holonomic robotic drivetrain using the concept of a differential to solve issues presented in other designs.
