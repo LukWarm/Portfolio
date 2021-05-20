@@ -1,9 +1,9 @@
 ---
 date: '1'
 title: 'Ultraviolet Robotics'
-cover: './halcyon.png'
+cover: './ultraviolet.png'
 github: ''
-external: ''
+external: 'blog/ultraviolet-robotics-2020'
 tech:
   - Autodesk Inventor
   - Java
