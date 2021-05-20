@@ -18,7 +18,7 @@ talk about why we wanted a new team and the grand plans
 
 ## Kickoff
 
-planning and stuff in mid september, designs for drivetrains and shit
+planning and stuff in mid september, designs for drivetrains
 
 ## Grand Plans
 
