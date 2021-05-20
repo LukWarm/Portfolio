@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on
+A recap of the first season of Ultraviolet Robotics: A community robotics team based in Marietta, GA.
