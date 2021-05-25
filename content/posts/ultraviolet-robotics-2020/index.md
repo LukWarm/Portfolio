@@ -16,7 +16,7 @@ Ultraviolet is a FIRST Tech Challenge community team based in Marietta, GA. We a
 
 Ultraviolet was formed out of a necessity of autonomy. All of our members came from a school team and we each saw that the "robotics" part of a team was constantly getting bogged down by all the bureaucracy of running a team, and having to work through a school. With our own team, we were able to work as much as we wanted, as late as we wanted, and move faster due to having less hoops to jump through.
 
-![connor_code](C:\Users\Egan\Documents\GitHub\Portfolio\content\posts\ultraviolet-robotics-2020\connor_code.png)
+![connor_code](.\connor_code.png)
 
 ## Kickoff
 
@@ -26,13 +26,13 @@ Kickoff happens in Mid-September, when the game is revealed to all the teams. Th
 
 Going into the season, we had big ideas for what we wanted our robot to do, and how it was going to do it. We decided we wanted a tank drive due to it's simplicity and speed. One constraint we placed on ourselves was to keep the drivetrain ultra thin, only 46mm wide, to accommodate for as much space as possible in the center.
 
-![first_assembly](C:\Users\Egan\Documents\GitHub\Portfolio\content\posts\ultraviolet-robotics-2020\first_assembly.png)
+![first_assembly](.\first_assembly.png)
 
 ## Robot in 24 Hours
 
 To prepare for the season, we hosted a "Robot in 24 Hours" challenge, where we tasked ourselves with building a competitive concept robot in only 24 hours (as the name suggests). We decided to make it harder on ourselves and keep to only a Kit of Parts, a curated kit of hardware and materials that typically serves as an absolute minimum to build a robot. This ended up being a very difficult process, however it was very educational, and got us familiar with the build system.
 
-![ri24h](C:\Users\Egan\Documents\GitHub\Portfolio\content\posts\ultraviolet-robotics-2020\ri24h.png)
+![ri24h](.\ri24h.png)
 
 # Into the Season
 
@@ -42,7 +42,7 @@ To prepare for the season, we hosted a "Robot in 24 Hours" challenge, where we t
 
 Our 8 Wheel Drivetrain turned out to be incredibly stiff, having too much static friction to move. We alleviated this by making our pulleys wider, and dropping to 6 wheels to have less points of resistance. Another major issue we faced was accessing screws. In order to minimize time between iterations, the drivetrain plates were left "un-pocketed", where no holes were made unless where necessary. This made it incredibly difficult to attach things to the robot, as accessing screws was near impossible without removing a panel.
 
-![adapting](C:\Users\Egan\Documents\GitHub\Portfolio\content\posts\ultraviolet-robotics-2020\adapting.png)
+![adapting](.\adapting.png)
 
 ## Not a lot of time
 
@@ -56,4 +56,4 @@ We faced a lot of challenges this season, with some things avoidable and others 
 
 Next year holds a lot in the cards for improvement. We currently have plans to incorporate as a non-profit organization to get greater autonomy and ability to take charitable donations. It will be senior year for all of us on the team, so that will present some challenges for time, but we hope to work through that.
 
-![dt_render](C:\Users\Egan\Documents\GitHub\Portfolio\content\posts\ultraviolet-robotics-2020\dt_render.png)
+![dt_render](.\dt_render.png)
