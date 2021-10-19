@@ -5,6 +5,7 @@ cover: './jeep.jpg'
 github: ''
 external: 'blog/jeep-rear-storage'
 tech:
+  - Plywood
 showInProjects: true
 ---
 
