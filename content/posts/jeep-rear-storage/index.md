@@ -11,15 +11,23 @@ tags:
 
 # The Problem
 
-I have a small car and I want to be able to carry a lot of things.
+I have a small car and I want to be able to carry a lot of things. My 2000 Jeep Wrangler isn't a very long car, and fitting a back seat in there only leaves so much cargo space. The original area leaves about a 1' x 1' x 4' compartment behind the seat, and with my subwoofer, that cuts my useable space in half. Since I don't carry that many people often, I wanted to remove the back seat and replace it with a storage system that provided space for my subwoofer, and things like tools and camping gear. The box had to be the right dimensions to fit all of these items, along with my desire to have it be a non-permanent solution, in the event that I want to drive more than one other person.
 
 # Research
 
-Other people have done the same thing with my car for themselves. We looked at some examples to get an idea of how we can fit a thing in the back and what it could look like
+Other people have done similar solutions, so we looked at some examples on the internet for inspiration. We took cues for the general shape of the box and how it was put together, and then thought about what we could do to make it removable, avoiding screws and nails.
 
 ![example 1](https://wranglertjforum.com/attachments/2-png.164085/)
 
+### This example shows a good example for the shelf depth
+
 ![example 2](http://static4.theroadchoseme.com/wp-content/uploads/2009/05/tj_box_rear_wall-900x675.jpg)
+
+### This example shows the back panel shaped to the body contour, which we incorporated into our plan
+
+![Example of flat shelf covering entire back area](ex3.jpg)
+
+### This shows a great full-depth shelf. We ultimately decided against this approach, as I wanted the ability to carry tall objects or to stack things.
 
 # Design
 
@@ -72,6 +80,12 @@ The last thing to complete the structure was to add some blocking so that the su
 # Final Product
 
 Below are some pictures illustrating the final look of the shelf.
+
+![Final product viewed from the rear](final1.jpg)
+
+One issue in completing the project was getting the magnet to work on keeping the tailgate shelf stowed. The plywood shelf itself is warped and the magnet isn't strong enough to keep the shelf pulled up. In the future I'd like to get a stronger magnet with more surface area, and use a different kind of wood.
+
+**The biggest issue** in completing the project was dealing with warped wood. We initially chose pressure-treated plywood due to it's durable and outdoor-friendly nature. A big issue with PT lumber is that when the pieces dry they tend to warp. This made squaring up the structure difficult and doing anything with accuracy challenging. In hindsight, we should have used regular plywood, or ideally, marine grade plywood, which is assembled with waterproof glue as oppose to being pressure treated, so it doesn't warp.
 
 # Gantt Chart
 
